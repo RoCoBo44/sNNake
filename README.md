@@ -1,2 +1,6 @@
 # sNNake
-A implementation of a neural network in order to play the game snake 
+A neural network programmed in JAVA to play Snake (2017)
+
+Link to Documentation (Spanish):
+
+[Link](https://docs.google.com/document/d/17Ei6uatSuve8_-Oeoi2MqiXI9mek3Nz7VTWpr3EHNC0/edit?usp=sharing)
