@@ -1,0 +1,3 @@
+SPACE to train
+A to let the neural network take control
+Arrows move
