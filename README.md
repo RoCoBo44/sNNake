@@ -2,7 +2,7 @@
 A neural network programmed in JAVA to play Snake (2017)
 
 <p align="center">
-  <img width="200" height="200" src="Snake10.gif" />
+  <img width="200" height="200" src="Images/Snake10.gif" />
 </p>
 
 Link to Documentation (Spanish):
