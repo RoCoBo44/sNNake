@@ -39,7 +39,11 @@ Here are some examples changing the continuation value to 1, 2 or 4
 If you want to try it out, these are the commands:
 
 SPACE 	= Train the network
+
+
 A     	= Change to automatic/manual mode
+
+
 W,A,S,D = Movement (only in manual mode)
 
 -------------------
